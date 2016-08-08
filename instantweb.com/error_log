@@ -1,0 +1,42 @@
+[19-Mar-2016 19:35:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
+[19-Mar-2016 19:36:05 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
+[19-Mar-2016 19:37:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
+[19-Mar-2016 19:44:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
+[19-Mar-2016 19:44:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
+[19-Mar-2016 19:45:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The number +13477065794 is unverified. Trial accounts cannot send messages to unverified numbers; verify +13477065794 at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.' in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/sannwebdesign/public_html/assets/twilio/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/sannwebdesign/public_html/message_send.php(135): Services_Twilio_Rest_Messages->sendMessag in /home/sannwebdesign/public_html/assets/twilio/Services/Twilio.php on line 297
