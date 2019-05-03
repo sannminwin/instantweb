@@ -83,8 +83,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php
 
     require "assets/twilio/Services/Twilio.php";
-    $AccountSid = "AC923f729b5ddbcf26669bb55538cd8292";
-    $AuthToken = "7a9912561a788d71b929967160b7826d";
+    $AccountSid = "xxxxxxxxxxxxxxxxxxxxxxxxx";
+    $AuthToken = "xxxxxxxxxxxxxxxxxxxxxxxxx";
     $client = new Services_Twilio($AccountSid, $AuthToken);
     $people = array("$to" => "$name");
     
